@@ -1,0 +1,23 @@
+## Instruction for Python package installtion
+## For Termux USer
+1.apt update
+2.apt upgrade
+3.pkg install python2
+4.pkg install git
+5.pip2 install mechanize
+6.pip2 install requests
+7.git clone
+8.cd Fast-Clonner
+9.ls
+10.python2 sumbi.py
+
+
+## For Linux User
+1.git clone
+2.cd Fast-Clonner
+3.ls
+4.python2 sumbi.py
+
+## Follow Me
+facebook.com/Sumbalstricks.termux.12
+Insta: khansumbal605
